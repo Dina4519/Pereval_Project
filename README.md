@@ -1,4 +1,4 @@
-[image](https://github.com/user-attachments/assets/2b82f50c-30c7-4116-acb6-ed0faa82955e)
+![image](https://github.com/user-attachments/assets/2b82f50c-30c7-4116-acb6-ed0faa82955e)
 
 # Виртуальная стажировка 
 

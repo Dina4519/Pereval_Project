@@ -152,6 +152,6 @@ ___
 
 ___
 
-*Проект опубликован на хостинге ***pythonanywhere.com***
+*Проект опубликован на хостинге ***pythonanywhere.com****
 
 *API ***Pereval***: https://Dina47.pythonanywhere.com/Pereval/*
